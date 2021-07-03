@@ -1,0 +1,15 @@
+h1 {
+    color:black;
+    font-size: 15  ;
+}
+.main{
+    margin: 100px;
+    padding: 150px;
+    background-color: chartreuse;
+    text-align: center;
+}
+body{
+    font-size: 15px;
+    background-color: cadetblue;
+    text-align: center;
+}
