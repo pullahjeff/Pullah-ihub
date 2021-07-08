@@ -1,0 +1,36 @@
+h1{
+    font-size: 25px;
+    text-align: center;
+}
+.main_1 {
+    width: 10cm;
+    height: 0.75cm;
+}
+.main_2
+{
+    width: 10cm;
+    height: 0.75cm;
+} 
+.main_3{
+    width: 10cm;
+    height: 0.75cm;
+} 
+.main_4 {
+    width: 10cm;
+    height: 0.75cm;
+}
+.main{
+    text-align: center;
+    font-size: 15px;
+    font-family: gothic;
+    background-color: aqua;
+}
+body{
+    background-color: rgb(108, 108, 243);
+
+}
+.registration{
+    background-color: burlywood;
+    text-justify: center;
+    text-align: center;
+}
